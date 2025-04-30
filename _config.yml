@@ -1,5 +1,5 @@
 # Configurations
-title:            Jekyll Gitbook
+title:            dev-guccin
 longtitle:        Jekyll Gitbook
 author:           HE Tao
 email:            sighingnow@gmail.com
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://dev-guccin.github.io'
-baseurl:          '/dev-guccin.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
